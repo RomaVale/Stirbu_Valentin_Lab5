@@ -144,7 +144,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AutoGeistModel\AutoGeistModel.csproj">
+    <ProjectReference Include="AutoGeistModel\AutoGeistModel.csproj">
       <Project>{c2cf5103-26de-4cba-97d5-66dcfb0bc727}</Project>
       <Name>AutoGeistModel</Name>
     </ProjectReference>

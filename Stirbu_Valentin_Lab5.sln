@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stirbu_Valentin_Lab5", "Stirbu_Valentin_Lab5.csproj", "{A1ED361C-90B2-4A11-B937-457EF709805F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGeistModel", "..\AutoGeistModel\AutoGeistModel.csproj", "{C2CF5103-26DE-4CBA-97D5-66DCFB0BC727}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGeistModel", "AutoGeistModel\AutoGeistModel.csproj", "{C2CF5103-26DE-4CBA-97D5-66DCFB0BC727}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
